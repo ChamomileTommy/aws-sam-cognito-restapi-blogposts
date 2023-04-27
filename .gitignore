@@ -4,5 +4,5 @@ dist
 .aws-sam
 samconfig.toml
 *coverage*
-./script/sesstion.txt
-./script/accessToken.txt
+script/sesstion.txt
+script/accessToken.txt
